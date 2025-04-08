@@ -1,0 +1,9 @@
+
+hotelName,stars,standardPrice,deluxePrice,suitePrice,familyPrice,promotion,website,lastUpdated
+Grand Palais Hôtel,5,160,220,320,260,10% week-end,grandpalaishotel.fr,2025-04-01
+Hôtel Élysée,4,140,190,280,210,Petit-déjeuner offert,hotelelysee.fr,2025-04-03
+Le Luxor,4,130,180,270,200,3 nuits = -15%,leluxor.fr,2025-03-30
+Carlton Royal,5,170,230,350,250,Business package,carltonroyal.fr,2025-04-05
+Résidence Opéra,3,110,160,240,180,Early booking -12%,residenceopera.fr,2025-04-02
+Hôtel Parisien,3,100,150,220,170,Senior discount,hotelparisien.fr,2025-04-04
+Étoile Dorée,4,135,185,275,190,Loyalty program,etoiledor.fr,2025-03-29

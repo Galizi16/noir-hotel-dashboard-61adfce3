@@ -1,0 +1,17 @@
+
+id,name,position,department,shift,phone,email,notes
+1,Emma Moreau,Directrice,Direction,Jour,0612345678,emma.moreau@noirhotel.fr,
+2,Lucas Bernard,Responsable Réception,Réception,Matin,0623456789,lucas.bernard@noirhotel.fr,
+3,Camille Laurent,Réceptionniste,Réception,Matin,0634567890,camille.laurent@noirhotel.fr,
+4,Thomas Petit,Réceptionniste,Réception,Soir,0645678901,thomas.petit@noirhotel.fr,
+5,Léa Girard,Réceptionniste,Réception,Nuit,0656789012,lea.girard@noirhotel.fr,
+6,Hugo Martin,Chef Concierge,Conciergerie,Jour,0667890123,hugo.martin@noirhotel.fr,
+7,Chloé Dubois,Concierge,Conciergerie,Soir,0678901234,chloe.dubois@noirhotel.fr,
+8,Antoine Lefebvre,Responsable Housekeeping,Entretien,Jour,0689012345,antoine.lefebvre@noirhotel.fr,
+9,Inès Dupont,Femme de Chambre,Entretien,Matin,0690123456,ines.dupont@noirhotel.fr,
+10,Maxime Durand,Homme de Chambre,Entretien,Matin,0601234567,maxime.durand@noirhotel.fr,
+11,Manon Rousseau,Femme de Chambre,Entretien,Soir,0612345670,manon.rousseau@noirhotel.fr,
+12,Jules Leroy,Chef,Restauration,Matin,0623456780,jules.leroy@noirhotel.fr,
+13,Louise Lemaire,Chef,Restauration,Soir,0634567890,louise.lemaire@noirhotel.fr,
+14,Gabriel Mercier,Serveur,Restauration,Matin,0645678900,gabriel.mercier@noirhotel.fr,
+15,Zoé Vincent,Serveuse,Restauration,Soir,0656789010,zoe.vincent@noirhotel.fr,

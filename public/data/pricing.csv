@@ -1,0 +1,14 @@
+
+roomType,rate,basePrice,weekend,seasonal,description
+Standard,Base,120,150,180,Chambre standard avec un lit double
+Standard,Promo,100,120,140,Chambre standard avec un lit double (tarif promotionnel)
+Standard,Business,150,170,200,Chambre standard avec un lit double (forfait affaires)
+Deluxe,Base,180,220,250,Chambre luxueuse avec un lit king
+Deluxe,Promo,160,190,230,Chambre luxueuse avec un lit king (tarif promotionnel)
+Deluxe,Business,210,240,270,Chambre luxueuse avec un lit king (forfait affaires)
+Suite,Base,250,300,350,Suite avec salon séparé et vue panoramique
+Suite,Promo,220,270,320,Suite avec salon séparé et vue panoramique (tarif promotionnel)
+Suite,Business,280,330,380,Suite avec salon séparé et vue panoramique (forfait affaires)
+Family,Base,200,240,280,Chambre familiale avec deux lits doubles
+Family,Promo,180,210,260,Chambre familiale avec deux lits doubles (tarif promotionnel)
+Family,Business,230,260,310,Chambre familiale avec deux lits doubles (forfait affaires)

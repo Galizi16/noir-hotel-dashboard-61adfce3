@@ -1,0 +1,17 @@
+
+roomNumber,roomType,status,occupancy,checkIn,checkOut,guest,remarks
+101,Standard,Occupied,2,2025-04-05,2025-04-08,Martin Dupont,Arrivée tardive
+102,Standard,Available,0,,,, 
+103,Standard,Maintenance,0,,,,Problème plomberie
+104,Standard,Reserved,2,2025-04-10,2025-04-15,Sophie Laurent,Demande lit bébé
+105,Deluxe,Occupied,1,2025-04-02,2025-04-09,Jean Leclerc,Client fidèle
+106,Deluxe,Available,0,,,, 
+107,Deluxe,Available,0,,,, 
+108,Deluxe,Occupied,2,2025-04-06,2025-04-07,Marie Durand,Séjour d'une nuit
+109,Suite,Reserved,3,2025-04-11,2025-04-14,Paul Mercier,Anniversaire de mariage
+110,Suite,Available,0,,,, 
+111,Family,Occupied,4,2025-04-01,2025-04-10,Famille Petit,Deux enfants
+112,Family,Available,0,,,, 
+113,Standard,Available,0,,,, 
+114,Standard,Occupied,2,2025-04-03,2025-04-09,Thomas Dubois,Long séjour
+115,Deluxe,Reserved,2,2025-04-12,2025-04-16,Claire Martin, 

@@ -1,0 +1,12 @@
+
+id,date,priority,module,message,status
+1,2025-04-08,Haute,Disponibilités,Overbooking potentiel sur les chambres standard le 15/04,Non résolu
+2,2025-04-07,Moyenne,Tarifs,Écart avec la concurrence sur les suites (-15%),Résolu
+3,2025-04-06,Haute,Staff,3 absences au housekeeping pour demain,Non résolu
+4,2025-04-05,Basse,Concurrence,Le Grand Palais lance une offre spéciale weekend,Information
+5,2025-04-05,Haute,Disponibilités,Maintenance requise chambre 103,En cours
+6,2025-04-04,Moyenne,Staff,Formation sécurité à planifier,Non résolu
+7,2025-04-03,Basse,Tarifs,Mise à jour trimestrielle des tarifs,Information
+8,2025-04-02,Haute,Concurrence,Ouverture nouvel hôtel dans le quartier,Information
+9,2025-04-01,Moyenne,Disponibilités,Chambre 209 disponible après rénovation,Résolu
+10,2025-03-31,Haute,Staff,Congés à valider avant le 15/04,Non résolu
